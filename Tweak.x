@@ -1,4 +1,4 @@
-// Shadow by jjolano
+// Shadow by iOSimple
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
